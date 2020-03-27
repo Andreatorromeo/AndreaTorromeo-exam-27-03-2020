@@ -1,1 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+/*mobile*/
+body{
+    margin:0;
+    width: 290px;
+    max-height:2078px;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.picture{
+    margin-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+
+.picturetop{
+    margin-top: 40px;
+}
+
+
+/*medium*/
 
