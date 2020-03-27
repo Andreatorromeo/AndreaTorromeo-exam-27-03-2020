@@ -70,5 +70,10 @@ h3{
     font-size: 1.1rem;
     color:white;
     letter-spacing: 1px;
+
+}
+
+.cta:hover{
+    background-color: black;
 }
 
